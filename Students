@@ -1,0 +1,10 @@
+package advance.dev;
+
+public class Student {
+	String name;
+	int age = 1;
+	String address = "asd";
+	int phonesNumber = 3;
+	double mark = 4;
+}
+
