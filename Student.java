@@ -19,7 +19,7 @@ public class Student {
 	}
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		Student student = new Student("Hậu", 18, 7.6, "Quảng Trị");
+		Student student = new Student("Thang", 19, 9, "Hue");
 		System.out.println(student);
 	}
 
