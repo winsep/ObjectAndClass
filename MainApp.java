@@ -6,10 +6,10 @@ public class MainApp {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Person p = new Person();
-		p.name = "Hậu";
-        p.age = 18;
-        p.dtb = 7.6;
-        p.Address = "Quảng Trị";
+		p.name = "Thang";
+        p.age = 19;
+        p.dtb = 9;
+        p.Address = "Hue";
         System.out.println(p.name+"\n"+p.age+"\n"+p.dtb+"\n"+p.Address);
 	}
 
